@@ -18,3 +18,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iaranitamiguel&show_icons=true&locale=en" alt="iaranitamiguel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iaranitamiguel&" alt="iaranitamiguel" /></p>
+<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif width="500">
