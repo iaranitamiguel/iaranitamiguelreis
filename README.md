@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Iaranita Miguel!</h1>
-<h3 align="center">A passionate about tech and geek worlds.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iaranitamiguel&label=Profile%20views&color=0e75b6&style=flat" alt="iaranitamiguel" /> </p>
+<h3 align="center">A passionate girl about tech and geek worlds.</h3>
 
 - 🌱 I’m currently learning **Dart, Flutter, Javascript.**
 
-- ⚡ Fun fact **Learning new languages and countries are by hobbies!**
+- ⚡ Fun fact **Learning new languages and countries are my hobbies!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
