@@ -1,4 +1,4 @@
-<h1 align="center">HOi👋, aqui quem fala é a Iara Miguel!</h1>
+<h1 align="center">Oi👋, aqui quem fala é a Iara Miguel!</h1>
 <h3 align="center">Uma garota apaixonada pelo mundo tech.</h3>
 
 - 🌱 Estou atualmente estudando *Javascript, Java e C.*
